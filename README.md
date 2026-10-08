@@ -1,0 +1,2 @@
+# linux-command-line-process-management-networking-shell-scripting
+A beginner-friendly Linux command-line lab featuring ten practical activities in navigation, file creation and editing, permissions, file operations, user and group management, process control, disk usage, searching, archiving, networking, and system logs. Includes guided instructions, command references, verification steps, and submission templat
